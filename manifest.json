@@ -12,6 +12,6 @@
    "icons": {"128": "Logo_128.png"},
    "name": "VQuora",
    "permissions": ["tabs", "http://*/", "https://*/"],
-   "version": "1.0.4",
+   "version": "1.0.5",
    "manifest_version": 2
 }
